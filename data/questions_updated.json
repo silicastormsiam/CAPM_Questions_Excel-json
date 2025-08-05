@@ -1753,21 +1753,6 @@
         "explanation": "Define and Approve Requirements. ECO Domain 4 Task 4.1. PMBOK 7th Edition, Section 4.3."
     },
     {
-        "id": 116,
-        "type": "single",
-        "domain": 4,
-        "module": "6",
-        "question": "What is the primary purpose of a requirements traceability matrix?",
-        "options": [
-            "a. To track project costs",
-            "b. To link requirements to deliverables",
-            "c. To list project deliverables",
-            "d. To outline the project schedule"
-        ],
-        "answer": 1,
-        "explanation": "To link requirements to deliverables. ECO Domain 4 Task 4.3. PMBOK 7th Edition, Section 4.3."
-    },
-    {
         "id": 117,
         "type": "single",
         "domain": 4,
@@ -2488,21 +2473,6 @@
         "explanation": "To define how requirements will be documented. ECO Domain 4 Task 4.1. PMBOK 7th Edition, Section 4.1."
     },
     {
-        "id": 165,
-        "type": "single",
-        "domain": 4,
-        "module": "6",
-        "question": "Which tool is used to prioritize requirements in a business analysis context?",
-        "options": [
-            "a. Weighted scoring",
-            "b. Pareto chart",
-            "c. Control chart",
-            "d. Histogram"
-        ],
-        "answer": 0,
-        "explanation": "Weighted scoring. ECO Domain 4 Task 4.1. PMBOK 7th Edition, Section 4.2."
-    },
-    {
         "id": 166,
         "type": "single",
         "domain": 4,
@@ -2666,21 +2636,6 @@
         ],
         "answer": 2,
         "explanation": "10% to 20% is typical for contingency reserves. ECO Domain 2 Task 2.4. PMBOK 7th Edition, Section 3.4; Google PM Course 3."
-    },
-    {
-        "id": 177,
-        "type": "single",
-        "domain": 3,
-        "module": "5",
-        "question": "How should user stories be prioritized in an Agile project?",
-        "options": [
-            "Based on the team's availability.",
-            "Based on the effort required.",
-            "Based on the business value.",
-            "Based on the project schedule."
-        ],
-        "answer": 2,
-        "explanation": "Prioritized based on business value. ECO Domain 3 Task 3.1. PMBOK 7th Edition, Section 3.3.2; Google PM Course 5."
     },
     {
         "id": 178,
@@ -3743,21 +3698,6 @@
         "explanation": "Forecasting predicts future costs. ECO Domain 2, Task 2.4: Monitor and control project performance. PMBOK 7th Edition, Section 3.4; Google PM Course 4."
     },
     {
-        "id": 248,
-        "type": "single",
-        "domain": 2,
-        "module": "3",
-        "question": "Which is a technique for cost estimating?",
-        "options": [
-            "a. Bottom-up estimating",
-            "b. Multivoting",
-            "c. Brainstorming",
-            "d. Interviews"
-        ],
-        "answer": 0,
-        "explanation": "Bottom-up estimating is a technique for cost estimating. ECO Domain 2, Task 2.4: Monitor and control project performance. PMBOK 7th Edition, Section 3.4; Google PM Course 3."
-    },
-    {
         "id": 249,
         "type": "single",
         "domain": 2,
@@ -4603,72 +4543,5 @@
             1
         ],
         "explanation": "The stakeholder power grid is a two-by-two grid used for conducting a stakeholder analysis. The power grid assigns each stakeholder a level of importance to the project using two measures: interest and influence. ECO Domain 4, Task 4.2; PMBOK 7th Edition, Section 4.2."
-    },
-    {
-        "id": 305,
-        "type": "single",
-        "domain": 4,
-        "module": "6",
-        "question": "Who is the project sponsor?",
-        "options": [
-            "a. The person involved in the project who has a vested interest in the project's success",
-            "b. The person who will use the product produced by a project",
-            "c. The person who plans, organizes, and oversees the project",
-            "d. The person who is accountable for the project and ensures the project delivers the agreed-upon value to a business"
-        ],
-        "answer": 3,
-        "explanation": "A project sponsor is the person who is accountable for the project. They ensure the project delivers the agreed-upon value to the business. ECO Domain 4, Task 4.2; PMBOK 7th Edition, Section 4.2."
-    },
-    {
-        "id": 306,
-        "type": "multiple",
-        "domain": 4,
-        "module": "6",
-        "question": "When choosing a project team, a project manager considers required roles, team size, and which three additional factors?",
-        "options": [
-            "a. Availability",
-            "b. Motivation",
-            "c. Necessary skills",
-            "d. Stakeholder preferences"
-        ],
-        "answer": [
-            0,
-            1,
-            2
-        ],
-        "explanation": "Everyone on the team needs to be available to join the project. This means they are not staffed on another big project and have the time to contribute. Beyond availability, team members also need to have key skills and be motivated to complete their tasks. Everyone on the team needs to have the right skills to do the job. If they don\u2019t have the necessary skills, the project manager should ensure that they receive timely training to avoid project delays. Beyond key skills, team members also need to be available and motivated. Stakeholder preferences about team members are not a factor project managers need to consider when building the team. ECO Domain 4, Task 4.2; PMBOK 7th Edition, Section 4.2."
-    },
-    {
-        "id": 307,
-        "type": "multiple",
-        "domain": 4,
-        "module": "6",
-        "question": "Which two factors are determined on a stakeholder power grid? Select all that apply.",
-        "options": [
-            "a. Influence",
-            "b. Interest",
-            "c. Input",
-            "d. Impact"
-        ],
-        "answer": [
-            0,
-            1
-        ],
-        "explanation": "The stakeholder power grid is a two-by-two grid used for conducting a stakeholder analysis. The power grid assigns each stakeholder a level of importance to the project using two measures: interest and influence. ECO Domain 4, Task 4.2; PMBOK 7th Edition, Section 4.2."
-    },
-    {
-        "id": 308,
-        "type": "single",
-        "domain": 4,
-        "module": "6",
-        "question": null,
-        "options": [
-            "a. None",
-            "b. None",
-            "c. None",
-            "d. None"
-        ],
-        "answer": 0,
-        "explanation": ""
     }
 ]
